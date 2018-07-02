@@ -1,0 +1,75 @@
+body {
+	background-image:url(b.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+#meio {
+	text-align: center;
+	padding-top: 250px;
+	margin-left: 400px;
+	margin-right: 500px;
+	margin-top:50px;
+	padding-bottom: 300px;
+	border-width: 1px;
+	border-style: solid;
+	background-image: url(img.jpg);
+	color: white;
+}
+h1 {
+	text-align: center;
+	color: white;
+}
+#q1 {
+	padding-right:25px;
+}
+#q2 {
+	position:absolute;
+	padding:15px;
+	padding-bottom:18px;
+	padding-top:17px;
+	left:630px;
+	top:310;	
+}
+#topo {
+	position:absolute;
+	left:450px;
+	top:50px;
+}
+#field {
+	position:absolute;
+	left:500px;
+	top:310;
+}
+#saque {
+	position:absolute;
+	left:502px;
+	padding:15px;
+	padding-right:17px;
+	padding-left:17px;
+	top:410px;
+	background-image:url(img.jpg);
+	color:#FFF;
+	font-size:large;
+}
+#caixa {
+	position:absolute;
+	top:520px;
+	left:560px;
+	border:2px solid;
+}
+#deposito {
+	position:absolute;
+	left:630px;
+	padding:15px;
+	padding-right:25px;
+	padding-left:27px;
+	top:410px;
+	background-image:url(img.jpg);
+	color:#FFF;
+	font-size:large;
+}
+.barra {
+	position:absolute;
+	top:280px;
+	left:500px;
+}
